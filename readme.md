@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **[Daily Expense Tracker](https://github.com/nishant803/dailyExpenseTracker)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-
+- 💬 Ask me about anything related to Javascript/React
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
